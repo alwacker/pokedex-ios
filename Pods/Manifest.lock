@@ -1,0 +1,29 @@
+PODS:
+  - CombineExt (1.8.0)
+  - Kingfisher (7.9.1)
+  - Swinject (2.8.3)
+  - SwinjectAutoregistration (2.8.3):
+    - Swinject (~> 2.8.3)
+
+DEPENDENCIES:
+  - CombineExt
+  - Kingfisher
+  - Swinject
+  - SwinjectAutoregistration
+
+SPEC REPOS:
+  trunk:
+    - CombineExt
+    - Kingfisher
+    - Swinject
+    - SwinjectAutoregistration
+
+SPEC CHECKSUMS:
+  CombineExt: c4daa97ef75754d8ef319bd79edeef82652f3eea
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  Swinject: 893c9a543000ac2f10ee4cbaf0933c6992c935d5
+  SwinjectAutoregistration: e3ee378dc458acf78d176fc7fec3902603452667
+
+PODFILE CHECKSUM: 61430c8f76e5eb4c63c667a913c624a6b28675fd
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BCCC3EB3-1FA3-490B-BEDA-CB95A275D655"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B0EA50B-C6F1-4F3D-8486-AF06F714D809"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Components/API/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "request(endPoint:method:params:headers:httpCodes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B0EA50B-C6F1-4F3D-8486-AF06F714D809 - ac3438475ab3839e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 (Combine.Publishers.Create&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;.Subscriber) -&gt; Combine.Cancellable in Pokedex_MeguMethod.ApiProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endPoint: Swift.String, method: Pokedex_MeguMethod.APIMethod, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpCodes: Swift.Range&lt;Swift.Int&gt;) -&gt; Combine.AnyPublisher&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "Pokedex_MeguMethod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandrvaker/Desktop/Pokedex_MeguMethod/Pokedex_MeguMethod/Components/API/APIProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "704">
+               </Location>
+               <Location
+                  uuid = "7B0EA50B-C6F1-4F3D-8486-AF06F714D809 - ac3438475ab3839e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 (Combine.Publishers.Create&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;.Subscriber) -&gt; Combine.Cancellable in Pokedex_MeguMethod.ApiProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endPoint: Swift.String, method: Pokedex_MeguMethod.APIMethod, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpCodes: Swift.Range&lt;Swift.Int&gt;) -&gt; Combine.AnyPublisher&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "Pokedex_MeguMethod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandrvaker/Desktop/Pokedex_MeguMethod/Pokedex_MeguMethod/Components/API/APIProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "612CF537-4222-4153-9A1A-A8BAB70742AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Components/API/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "request(endPoint:method:params:headers:httpCodes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "612CF537-4222-4153-9A1A-A8BAB70742AF - 668923edee29cb33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokedex_MeguMethod.ApiProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endPoint: Swift.String, method: Pokedex_MeguMethod.APIMethod, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpCodes: Swift.Range&lt;Swift.Int&gt;) -&gt; Combine.AnyPublisher&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "Pokedex_MeguMethod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandrvaker/Desktop/Pokedex_MeguMethod/Pokedex_MeguMethod/Components/API/APIProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "612CF537-4222-4153-9A1A-A8BAB70742AF - b956e64fe5cec6c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Publishers.Create&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;.Subscriber) -&gt; Combine.Cancellable in Pokedex_MeguMethod.ApiProvider.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable&gt;(endPoint: Swift.String, method: Pokedex_MeguMethod.APIMethod, params: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, httpCodes: Swift.Range&lt;Swift.Int&gt;) -&gt; Combine.AnyPublisher&lt;Pokedex_MeguMethod.APIEvent&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;"
+                  moduleName = "Pokedex_MeguMethod"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oleksandrvaker/Desktop/Pokedex_MeguMethod/Pokedex_MeguMethod/Components/API/APIProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "688">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "747ECFEC-F9B7-40ED-BFF9-9CC10A39F149"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Modules/PokemonsModule/PokemonListView/ViewModel/PokemonListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "init(service:router:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81648065-158F-49D5-85AE-E9F2AF384922"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Components/API/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "request(endPoint:method:params:headers:httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30C5FD98-A181-4E5D-A153-7597E4C044CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Components/API/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "request(endPoint:method:params:headers:httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6CCF667-EC94-46BA-9318-2ED233A480F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Components/API/APIProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "request(endPoint:method:params:headers:httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FB70134-A4A0-4CBA-AB97-7930A4E0E514"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Extensions/ResponseJSONPublisher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "requestJSON(httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E06EB76-7C04-488F-AA4E-5BFB59B4C32A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Extensions/ResponseJSONPublisher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "requestJSON(httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B90F52DE-6420-4FDF-812C-791D248199C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Extensions/ResponseJSONPublisher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "requestJSON(httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A777E3D6-DD80-4B13-906D-9E440DF40E96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex_MeguMethod/Modules/PokemonsModule/PokemonDetailView/PokemonDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "init(pokemon:service:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
